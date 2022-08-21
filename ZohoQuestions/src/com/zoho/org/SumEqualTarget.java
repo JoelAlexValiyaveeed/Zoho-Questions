@@ -42,7 +42,7 @@ public class SumEqualTarget {
 		Collections.sort(filteredNumbers);
 
 		if (checkSum(filteredNumbers, target)) {
-			System.out.println("Possibe");
+			System.out.println("Possible");
 		} else {
 			System.out.println("Not Possible");
 		}
@@ -74,7 +74,7 @@ public class SumEqualTarget {
 //	9
 //	Target: 
 //	18
-//	Possibe
+//	Possible
 
 //2. No. of Integers= 
 //6
@@ -92,7 +92,7 @@ public class SumEqualTarget {
 //8
 //Target: 
 //6
-//Possibe
+//Possible
 //3. No. of Integers= 
 //6
 //Please enter number
@@ -146,7 +146,7 @@ public class SumEqualTarget {
 //8
 //Target: 
 //16
-//Possibe
+//Possible
 
 //6. No. of Integers= 
 //7
